@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/ResultService26/P1S2JM26/ViewQrCode",
+      "dest": "/ResultService26/P1S2JM26/ViewQrCode.html"
+    }
+  ]
+}
